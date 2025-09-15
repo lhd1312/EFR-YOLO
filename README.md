@@ -45,4 +45,5 @@ python detect.py
 
 ## Reference
 github:https://github.com/z1069614715/objectdetection_script
+
 Jocher, G., Qiu, J., & Chaurasia, A. (2023). Ultralytics YOLO (Version 8.0.0) [Computer software]. https://github.com/ultralytics/ultralytics
