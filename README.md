@@ -12,8 +12,7 @@ Results & Weight
 webgage：https://pan.baidu.com/s/1hvtqCJRf9p2XiqVcztXN1Q
 password：1666
 
-datasets
-Data will be made available on request. 
+Datasets: Data will be made available on request. 
 
 ## Training
 1. Preparation of datasets  
