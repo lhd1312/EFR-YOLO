@@ -33,7 +33,7 @@ python split_data.py
   
 **You can use xml2txt.py and yolo2coco.py to format your dataset.**  
 
-4. Training 
+3. Training 
 python train.py 
 
 ## Evaluation 
