@@ -4,14 +4,13 @@ Real-time edge computing detection of rice diseases
 <img width="1193" height="444" alt="image" src="https://github.com/user-attachments/assets/ed081872-d4c3-4e06-afe7-be6b297d28ec" />
 
 
-
 ## Required environment
 torch==2.2.2 cuda==12.1
 
 ## File download 
-weight
-webgage：https://pan.baidu.com/s/1VNGmzciW8eOKSWq_Umfmog?pwd=rzh2  
-password：rzh2
+Results & Weight
+webgage：https://pan.baidu.com/s/1hvtqCJRf9p2XiqVcztXN1Q
+password：1666
 
 datasets
 Data will be made available on request. 
@@ -39,7 +38,7 @@ python train.py
 
 ## Evaluation 
 python get_FPS.py  
-**get the evaluation results**    
+**Get the FPS evaluation results**    
 
 ## Predict   
 python detect.py  
